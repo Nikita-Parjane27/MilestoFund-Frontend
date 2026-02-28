@@ -100,8 +100,8 @@ export default function Navbar() {
             className="h-12 w-auto object-contain select-none transition-transform hover:scale-105"
           />
           <span className="font-black text-[19px] md:text-[21px] tracking-tight hidden sm:block">
-  Milesto<span style={{ color: "var(--teal)" }}>Fund</span>
-</span>
+            Milesto<span style={{ color: "var(--teal)" }}>Fund</span>
+          </span>
         </Link>
 
         {/* Desktop nav */}

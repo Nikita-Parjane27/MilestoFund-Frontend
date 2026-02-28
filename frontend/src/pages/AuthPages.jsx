@@ -132,12 +132,7 @@ function AuthLayout({ children, title, subtitle, isLogin }) {
         </div>
         <div className="relative">
           <Link to="/" className="flex items-center gap-2">
-            <div
-              className="w-9 h-9 rounded-xl flex items-center justify-center text-white font-black text-sm"
-              style={{ background: "var(--teal)" }}
-            >
-              CF
-            </div>
+            <img src="/logo.png" alt="MilestoFund" className="h-10 w-auto" />
             <span className="font-black text-xl text-white">MilestoFund</span>
           </Link>
         </div>
