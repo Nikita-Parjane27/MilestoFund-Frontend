@@ -114,13 +114,6 @@ export default function AIAssistantPage() {
               </div>
             </button>
           ))}
-
-          <div className="mt-4 p-4 rounded-2xl bg-muted/50 border flex gap-3">
-            <Lock className="h-4 w-4 text-muted-foreground shrink-0 mt-0.5" />
-            <p className="text-xs text-muted-foreground leading-relaxed">
-              API key stays on backend server — never exposed to browser.
-            </p>
-          </div>
         </div>
 
         {/* ── Main Panel ── */}
