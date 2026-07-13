@@ -75,7 +75,7 @@ If you want to contribute, please open an issue or a pull request. Describe the 
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE.md) file for details.
 
 ---
 
@@ -264,22 +264,6 @@ If you seed demo data, use:
 | Creator | creator@example.com | demo1234  |
 
 > Or register a new account — it works immediately.
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here after deployment:
-> - Home page hero
-> - Discover page with filters
-> - Project detail with reward tiers
-> - Creator dashboard with charts
-
----
-
-## 🎥 Video Walkthrough
-
-> Add your video link here: `https://www.loom.com/share/YOUR_VIDEO_ID`
 
 ---
 
